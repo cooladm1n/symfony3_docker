@@ -1,8 +1,8 @@
 FROM php:7.1-fpm
 
 ARG DOCKER_USER="devops"
-ARG GIT_USER_NAME="John Doe"
-ARG GIT_USER_EMAIL="johndoe@example.com"
+ARG GIT_USER_NAME="Cool Admin"
+ARG GIT_USER_EMAIL="i@cooladmin.ru"
 
 
 # Install packages
